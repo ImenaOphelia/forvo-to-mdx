@@ -29,7 +29,7 @@ The script will automatically download most required files, except for two large
 
 #### a. Download metadata.jsonl
 
-Download metadata.jsonl.xz from this link, then extract it with:
+Download metadata.jsonl.xz from [https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?dir=/0%20Forvo%20audio](this) link, then extract it with:
 
 ```bash
 xz -d metadata.jsonl.xz
@@ -39,7 +39,7 @@ Make sure the extracted file is named metadata.jsonl and placed in the root of t
 
 #### b. Download Audio Files
 
-1. Go to the Opus audio folder and download the folder for your target language.
+1. Go to the Opus audio folder [https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?dir=/0%20Forvo%20audio](here) and download the folder for your target language.
 
 
 2. Alternatively, use the torrent link if the files are not available directly.
